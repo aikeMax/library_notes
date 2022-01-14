@@ -3,5 +3,5 @@
 
 > 文档库
 
-[GitHub]()
+[GitHub](https://github.com/aikeMax/library_notes/tree/master/docs)
 [Start](start.md)
